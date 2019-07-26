@@ -1,6 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:login_social/signup.page.dart';
 
+
+void loginFacebook(){
+
+}
+
 class Login extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
